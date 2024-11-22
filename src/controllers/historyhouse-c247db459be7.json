@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "historyhouse",
+  "private_key_id": "c247db459be71710ff4854e63d3e12f9ecb56f91",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCyMg1jkvchWS/4\nJxUeFAGA2VBgZM+as+2h6VDllKASkej0WyOo7nt3pY9Wr15da2UMb2k2jjzR/rhf\n+KT0IREkQuGIpP8/ifKdkdu/A0+5Kc9w/7LLq99dWFOOJ2DGB4Livw0kKmtFzZA/\nvPFo9Jb2VpbUSrpvXv85xVDCGl1IJXr2nsm8M8SRr/0r4fM3LBcWG5VYEhLVr3rW\ndx/+sN/tnlZ13vxJxduACspH1vuidPmKB/RoNBGtBQTzHAqgB0J/vVRxacY0NouH\nfDjpd6LuhZ07+A/SL1R5TgSZtGlqhgGI/6QvBHK+0auDAC0SnH45fp7OOSoSrQ36\np3b/7R4bAgMBAAECggEAT1iWOaZxQHo0L+1HK/OAj900OxfokVxZDeWUTgYWGO67\nqkMC5+/5LlecMd84x6RQhG7/jHldf6xKcQGIgeRPe7QENRIzThmg3KTcEnvo/ewu\nIITbGnHXrfrsibnjD4q8rzafJWF2Dsjv2FHLtQ5kQiBgXPtBdOH6B8FiqmuO6dZ4\nXPKooLALrTMOZ9LcOOJA4aZKBRi/1WI6czybQpNvc4NqDjBMI94ywqXP+fBa591n\ni8SfcPSJ+t9xSfxYffUEoaaVljUDyUNwDQY5OqdhLYVxO14wOyHlMU1TIjEdzm0f\nVYHTtE7A3giJedwL+6B/SmPkCAQ9Wc++hWuicTa2QQKBgQDatG0i0WLJTU7IiduQ\nIue/xTIAu8xWh+5RScjA1Y8PiHQlM2k424s9HsesyC4KCQFTr7Y0cRdjJUCgSizq\nngm8HEg1zJ881Nv/6LiUO3qQovsUBeSW3Umsf+rdvLs2wFNdZHZezEeM9UOI3ACJ\nY00wDopjSu6ama94NWiQp2YZiwKBgQDQlTDQRtWTO0Rz5Ib083iXoxnMF+NeqiD1\ntWTagncnKiu0gApDDUoffJMme+KE7GJw+rBBJz0CVKnYmkmDU+UdVyFUx+S/vf+i\nBWsA3woJ6w4wAUm+LYgM5oEY78eQHSUZNyQu7UUJd5KGo172jZEA6LqF55yN1ymw\nvpy/4Sz/sQKBgBGKNtZ8BHgwgwkCRWGh6wQuRHxak2C9Nhe+2yLb/cU5JFd3cBDn\nSpt0RH9O7qJPZpPXm71I9J829Z/lUwTd99nmSsRFzN+MErjLaUI6IvJGn+xTLKoM\nxUPYXnW6FSmm8wiibfvcVkCvyuLHAiQCmsYn5GFiORCdEr2JSwGO61lRAoGAe2bY\nk1BlCQ82Z25bnc3xmZzoJUQ4w4fZqiSgP1qSjfw4ETjzWUoigVBdapY+pK+JahgW\ncOV7Bcb7GWfmeCkJUvt6f8MnhX0uITgdX02Vjdqf8SzB6R7c7+zrkcpCgfOMQEfM\nQ2sivgAdE0TSaQHGOQh3WcN2bsBOLQAIksjwq3ECgYB2it1AHgegUtikuIEGydtj\nxdHdcxbQ/zqt1lM2tj8H6j0L/zmEodP7EJD4UmhRUTwnDGh7C8YjwdY8wAs0f6KX\nF0xflO7iOYAzQYOptLrZwC1ZGvHwysFUoQjqFqAaxDoKPHeYN+QJUtNrHs9Tmj2x\n1zEQ/W2p6FOwvPTg1wvSTw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "historyhouse@historyhouse.iam.gserviceaccount.com",
+  "client_id": "115360882830983508239",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/historyhouse%40historyhouse.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
