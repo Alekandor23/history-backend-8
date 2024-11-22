@@ -233,7 +233,7 @@ export const passwordRequest = async (req, res) => {
         const token = jwt.sign({ userId: usuario.id }, JWT_SECRET, { expiresIn: TOKEN_EXPIRATION });
 
         // Enlace de restablecimiento (adaptar según tu frontend)
-        const resetLink = `http://localhost:5173/reset-password?token=${token}`;
+        const resetLink = `https://history-backend-2.onrender.com/reset-password?token=${token}`;
         
         // Envía el correo al usuario
          await transporter.sendMail({
